@@ -35,7 +35,7 @@ I am a full stack software developer specializing in web development . I am expe
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" align="left"/> <br/>
 
 ### Back-End Languages
-<img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" align = "left"/>
+<img src = "https://img.shields.io/badge/Django-%23ED8B00.svg?style=for-the-badge&logo=Python&logoColor=white" align = "left"/>
 <!--<img src = "https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" align = "left"/> <br/>-->
 
 ### Back-End Frameworks and Libraries
