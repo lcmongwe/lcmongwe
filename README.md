@@ -1,6 +1,8 @@
 # Hi there, I Am Lucy! 👋
 
-<a href="https://imgbox.com/jbU9lnu8" target="_blank"><img src="https://thumbs2.imgbox.com/09/1c/jbU9lnu8_t.png" alt="image host"/></a>
+![IMG_20201001_125129_011-removebg-preview](https://github.com/lcmongwe/lcmongwe/assets/99716696/953990b4-3d2d-4006-9270-149c6ad92245)
+
+<!--<a href="https://imgbox.com/jbU9lnu8" target="_blank"><img src="https://thumbs2.imgbox.com/09/1c/jbU9lnu8_t.png" alt="image host"/></a>-->
 
 # Bio 
 I am a full stack software developer specializing in web development . I am experienced in languages such as Typescript,PHP and Javascript. Iam passionate about solving real world problems using tech!
